@@ -7,7 +7,7 @@
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me </br>
-  Email: netprince@gmail.com </br>
+  Email: brandon0303weddle@gmail.com </br>
   Telegram: <a href="https://t.me/idealcreator99" target="_blank">@idealcreator</a> </br>
   Skype: live:.cid.618dce6f586fa9be </br>
   Discord: RNMAI-DEV#4262 </br>
